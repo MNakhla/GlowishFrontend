@@ -14,3 +14,6 @@ REACT_APP_STRIPE_PUBLIC_KEY=pk_test_51L8liNDTaLE2SY05os7jsaYQEiA6fQGn8A58nKdkaVS
 2- run "npm i" command in the terminal
 
 3- run "npm start" command in the terminal
+
+
+Live link => https://glowish.netlify.app
