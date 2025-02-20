@@ -9,3 +9,10 @@ The project was divided into 4 use cases:
 2. [Searching and Filtering Freelancer Service](use_case2.md#use-case-2-searching-and-filtering-freelancer-service)
 3. [Booking an Appointment and Paying](use_case3.md#use-case-3-booking-an-appointment-and-paying)
 4. [Customer Managing Appointments](use_case4.md#use-case-4-customer-managing-appointments)
+
+## Meet the Developers
+|  |  |  |
+|---------|---------|---------|
+|![dev1](images/maria-nakhla.jpg) |  ![alt text](images/mariz-awad.jpg)| ![alt text](images/hoda-hamdy.jpg) | 
+| [linkedin.com/in/marianakhla](https://www.linkedin.com/in/marianakhla/)  | [linkedin.com/in/mariz-awad-m-sc-4354a1120/](https://www.linkedin.com/in/mariz-awad-m-sc-4354a1120/)  | [linkedin.com/in/hoda-hisham/](https://www.linkedin.com/in/hoda-hisham/)  |
+
