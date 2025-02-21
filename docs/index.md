@@ -13,7 +13,17 @@ The project was divided into 4 use cases:
 4. [Customer Managing Appointments](use_case4.md#use-case-4-customer-managing-appointments)
 
 ## Meet the Developers
-| [Maria Nakhla](https://www.linkedin.com/in/marianakhla/) | [Mariz Awad](https://www.linkedin.com/in/mariz-awad-m-sc-4354a1120/) | [Hoda Hamdy](https://www.linkedin.com/in/hoda-hisham/) |
-|---------|---------|---------|
-| ![dev1](images/maria-nakhla.jpg) | ![dev2](images/mariz-awad.jpg) | ![dev3](images/hoda-hamdy.jpg) |
+<table>
+  <tr>
+    <th><a href="https://www.linkedin.com/in/marianakhla/">Maria Nakhla</a></th>
+    <th><a href="https://www.linkedin.com/in/mariz-awad-m-sc-4354a1120/">Mariz Awad</a></th>
+    <th><a href="https://www.linkedin.com/in/hoda-hisham/">Hoda Hamdy</a></th>
+  </tr>
+  <tr>
+    <td><img src="images/maria-nakhla.jpg" width="150px"></td>
+    <td><img src="images/mariz-awad.jpg" width="150px"></td>
+    <td><img src="images/hoda-hamdy.jpg" width="150px"></td>
+  </tr>
+</table>
+
 
